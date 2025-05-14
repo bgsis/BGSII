@@ -1,2 +1,2 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/bgsis/BGSII/refs/heads/main/moonx", true))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/robyndroine7/Bgsi/refs/heads/main/Bgsi", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/robyndroine7/Moon-hub-x-/refs/heads/main/Protected_3562760580944216.lua.txt", true))()
